@@ -22,7 +22,7 @@ Certifique-se de que você tem o Python instalado. Você pode baixá-lo [aqui](h
 
    ```bash
    git clone https://github.com/SEU_USUARIO/treemap_population.git
-# Navegue até o diretório do projeto:
+## Navegue até o diretório do projeto:
 
 
 cd treemap_population
@@ -34,6 +34,6 @@ Execute o script Python para gerar o Treemap:
 
 
 python treemap_population.py
-# Isso criará um arquivo chamado treemap_population.html no diretório atual.
+### Isso criará um arquivo chamado treemap_population.html no diretório atual.
 
 # Abra o arquivo treemap_population.html em um navegador da web para visualizar o Treemap interativo
