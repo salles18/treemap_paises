@@ -34,6 +34,6 @@ Execute o script Python para gerar o Treemap:
 
 
 python treemap_population.py
-### Isso criará um arquivo chamado treemap_population.html no diretório atual.
+ Isso criará um arquivo chamado treemap_population.html no diretório atual.
 
-# Abra o arquivo treemap_population.html em um navegador da web para visualizar o Treemap interativo
+ Abra o arquivo treemap_population.html em um navegador da web para visualizar o Treemap interativo
